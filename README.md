@@ -49,5 +49,3 @@ This repository contains all week-wise learning materials, code notebooks, and r
 ---
 
 
-## 📁 Repository Structure (Suggested)
-
