@@ -48,27 +48,6 @@ This repository contains all week-wise learning materials, code notebooks, and r
 
 ---
 
-## 🔎 Week 4 — Basic ML Models  
-**Goal:** Learn the fundamentals of the ML algorithms used for text classification.
-
-### 📺 Recommended Models to Study
-- Logistic Regression  
-- Support Vector Machine (SVM)  
-- Random Forest Classifier  
-
-*(Add YouTube/video links here if you want them included.)*
-
----
-
-## 🧪 Week 5 — Model Training & Evaluation  
-**Goal:** Train models, generate predictions, and evaluate performance.
-
-### 🔍 Metrics to Understand
-- Accuracy  
-- Precision, Recall, F1-score  
-- Confusion Matrix  
-
----
 
 ## 📁 Repository Structure (Suggested)
 
