@@ -62,8 +62,11 @@ Understand how classical machine learning models work for text classification an
 - Support Vector Machine (SVM) Explained  
   https://www.youtube.com/watch?v=_YPScrckx28
 
-- Random Forest Classifier Explained  
+- Random Forest Classifier Explained
   https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
+  
+- Build your first ML model
+  https://www.youtube.com/watch?v=29ZQ3TDGgRQ
 
 - Evaluation Metrics (Accuracy, Precision, Recall, F1-score)  
   https://www.youtube.com/watch?v=85dtiMz9tSo
