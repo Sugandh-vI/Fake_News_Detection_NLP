@@ -68,8 +68,6 @@ Understand how classical machine learning models work for text classification an
 - Build your first ML model
   https://www.youtube.com/watch?v=29ZQ3TDGgRQ
 
-- Evaluation Metrics (Accuracy, Precision, Recall, F1-score)  
-  https://www.youtube.com/watch?v=85dtiMz9tSo
 
 ---
 
@@ -79,17 +77,14 @@ Understand how classical machine learning models work for text classification an
 Train machine learning models using different feature extraction techniques and analyze their performance.
 
 ### 📺 YouTube Resources
-- TF-IDF Explained with Code  
-  https://www.youtube.com/watch?v=ATK6fm3cYfI
 
-- Word2Vec Complete Tutorial  
-  https://www.youtube.com/watch?v=DDfLc5AHoJI
 
 - Confusion Matrix Explained  
   https://www.youtube.com/watch?v=Kdsp6soqA7o
 
-- End-to-End NLP Project Walkthrough  
-  https://www.youtube.com/watch?v=M7SWr5xObkA
+- Evaluation Metrics (Accuracy, Precision, Recall, F1-score)  
+  https://www.youtube.com/watch?v=85dtiMz9tSo
+
 
 ---
 
