@@ -48,4 +48,53 @@ This repository contains all week-wise learning materials, code notebooks, and r
 
 ---
 
+---
+
+## 📘 Week 4 — Learning Basic Machine Learning Models
+
+**Goal:**  
+Understand how classical machine learning models work for text classification and train simple baseline models.
+
+### 📺 YouTube Resources
+- Logistic Regression for Text Classification  
+  https://www.youtube.com/watch?v=Q81RR3yKn30
+
+- Support Vector Machine (SVM) Explained  
+  https://www.youtube.com/watch?v=_YPScrckx28
+
+- Random Forest Classifier Explained  
+  https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
+
+- Evaluation Metrics (Accuracy, Precision, Recall, F1-score)  
+  https://www.youtube.com/watch?v=85dtiMz9tSo
+
+---
+
+## 🚀 Week 5 — Training Models & Getting Results
+
+**Goal:**  
+Train machine learning models using different feature extraction techniques and analyze their performance.
+
+### 📺 YouTube Resources
+- TF-IDF Explained with Code  
+  https://www.youtube.com/watch?v=ATK6fm3cYfI
+
+- Word2Vec Complete Tutorial  
+  https://www.youtube.com/watch?v=DDfLc5AHoJI
+
+- Confusion Matrix Explained  
+  https://www.youtube.com/watch?v=Kdsp6soqA7o
+
+- End-to-End NLP Project Walkthrough  
+  https://www.youtube.com/watch?v=M7SWr5xObkA
+
+---
+
+✨ **Final Outcome**
+- End-to-end Fake News Detection pipeline
+- Clear understanding of text preprocessing, feature extraction, and ML models
+- Hands-on experience with evaluation and comparison of NLP techniques
+
+---
+
 
